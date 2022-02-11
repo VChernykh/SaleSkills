@@ -1,0 +1,19 @@
+{
+  "text_1": "\nReminder:\n- In the *Practice* tab you can find scenarios for practicing skills based on simulations, you can use text or voice messages\n- In the *Theory* tab there is a brief theory on sales and product\n- In the *Help and Settings* tab, the settings for the simulator and technical support",
+    
+  "text_2": "In the scenarios below:\n\n*1.* Client: medium business, cold lead - previously bought from our competitors\n\n*2.* Contact: fin. director\n\n*3.* Suggested product:\n- Consultant Accountant «kit Optimal»", 
+    
+  "answer_1": "*Client*: I received your offer. It's very expensive for such a product!", 
+    
+  "prompt_1": "_Prompt: \nIt's a good idea to categorize the client in the conversation with questions beforehand to use the appropriate list of benefits. The mistake of selling the same product to different target audiences._\n\nAn example of speech patterns for working out «expensive»:\n— Is price the only thing stopping you from making a decision?\n— Could you please clarify what you mean when you say «expensive / unprofitable?»", 
+    
+  "prompt_2": "_Prompt:_\nAnswer options:\n1. Let's think together! What exactly are you worried about?\n2. Good. May I clarify what exactly you want to think about?\n3. Good. Please note that ... (a story about the benefits of the product).\n4. Good. I just want to remind you... (a story about a promotion limited in time).\n\nCommon mistakes:\n1. Do not respond to a standard objection, agree with it, perceive it as a refusal.\n2. Be afraid to seem intrusive. Think that the client will get annoyed and leave.",
+    
+  "answer_2": "*Client*: Okay. I will think. Maybe I'll contact you later.",
+    
+  "prompt_3": "_Prompt:_ \nNow improvise yourself!",
+    
+  "answer_3": "*Client*: Let's do it. I have no time at the moment. Please write to me in the chat how much the basic license for a company for 20-30 computers will cost.\n\nNow I will send to our technologist. You can call tomorrow at the same time, we will decide with him."
+}
+
+
